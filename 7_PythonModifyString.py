@@ -1,15 +1,15 @@
 
 # Upper case 
-x = "my name is wajahat and my father name is arshad"
+x = "my name is Sagheer and my father name is Ameer"
 print(x.upper())
 
 #Lowercase
-x = "MY NAME IS WAJAHAT AND MY FATHER NAME IS ARSHAD"
+x = "MY NAME IS Sagheer AND MY FATHER NAME IS Ameer"
 print(x.lower())
 
 # Removing Whitespace
 
-x = "   Wajahat, Ali "
+x = "   Sagheer, Hussain "
 print(x.strip())  
 
 # Replace string 
