@@ -20,16 +20,16 @@ print(y)
 print(z)
 # A List with string ,int and boolean
 
-a = ["wajahat" , 5 , True , 10 ,"ali"]
+a = ["Sagheer" , 5 , True , 10 ,"ali"]
 print(a)
 
 # Data types for lists
-a = ["wajahat" , 5 , True , 10 ,"ali"]
+a = ["Sagheer" , 5 , True , 10 ,"ali"]
 print(type(a))
 
 # List[] Constructor
 
-a = list(("wajahat" , 5 , True , 10 ,"ali"))
+a = list(("Sagheer" , 5 , True , 10 ,"ali"))
 print(a) # Double round brackets (( )) same as square brackets []
 
 # Python collections (Arrays)
