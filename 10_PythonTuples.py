@@ -73,7 +73,7 @@ x = ("banana" , "orange" , "apple" , "mangoes" , "wajahat" , "ali" , "opera-mini
 print(type(x))
 y = list(x)
 print(type(y))
-y[3] = "Wajahat-Engineer"
+y[3] = "Sagheer-Engineer"
 x = tuple(y)
 print(x)
 print(type(x))
@@ -84,13 +84,13 @@ x = ("banana" , "orange" , "apple" , "mangoes" , "wajahat" , "ali" , "opera-mini
 print(type(x))
 y = list(x)
 print(type(y))
-y.append("wajahatatlast")
+y.append("Sagheeratlast")
 x = tuple(y)
 print(x)
 
 # Adding tuple to a tuple
 x = ("banana" , "orange" , "apple" , "mangoes")
-y = ("wajahatdeveloper",)
+y = ("Sagheerdeveloper",)
 x += y
 print(x)
 
@@ -110,10 +110,10 @@ x = ("banana" , "orange" , "apple" , "mangoes" , "wajahat" , "ali" , "opera-mini
 del x 
 
 # Packing a tuple (when we assign a value to tuple)
-x = ("Wajahat" , "ali" , "python" , "result")
+x = ("Sagheer" , "ali" , "python" , "result")
 
 # Unpacking a tuple (when we extract a value from tuple)
-x = ("Wajahat" , "ali" , "python" , "result")
+x = ("Sagheer" , "ali" , "python" , "result")
 (a , b , *c) = x
 print(a)
 print(b)
