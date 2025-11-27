@@ -1,17 +1,17 @@
-x = "wajahat"
-y = 'wajahat'
+x = "Sagheer"
+y = 'Sagheer'
 print(x)
 print(y)
 # Single line string
-x = "wajahat"
+x = "Sagheer"
 # Multilines string
-z = '''my name is wajahat 
+z = '''my name is Sagheer 
 and whats your name brother where 
 are you from '''
 print(z)
 
 # Strings are Arrays(indexing like arrays)
-a = "Wajahat Ali"
+a = "Sagheer"
 print(a[1])
 
 # Looping through the string
@@ -19,7 +19,7 @@ print(a[1])
 for x in "Orange":
   print(x)
 # String length
-a = "Wajahat Ali"
+a = "Sagheer"
 print(len(a))
 
 # Check string 
